@@ -12,7 +12,7 @@ This is the official repository for my game projects, hope you like it!
 
 ## About the Project
 
-A Plants vs Zombies Alike game, for programmer testing on S2P.
+A Plants vs Zombies Alike game, for testing purposes.
 
 ## Getting Started
 
@@ -24,7 +24,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Running the project
 
-After cloning or downloading the repository, open the root project folder in unity and press the **Play**.
+After cloning or downloading the repository, open the root project folder in unity, open "Sample Scene", and press the **Play**.
 
 
 ## Authors
