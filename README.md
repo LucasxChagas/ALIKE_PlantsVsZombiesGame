@@ -26,6 +26,9 @@ These instructions will get you a copy of the project up and running on your loc
 
 After cloning or downloading the repository, open the root project folder in unity, open "Sample Scene", and press the **Play**.
 
+Special thanks to [Mayara Leone](http://compilemosfacil.blogspot.com/), her blog is very useful and has some interesting tips.
+
+
 
 ## Authors
 **Lucas X.C.** 
